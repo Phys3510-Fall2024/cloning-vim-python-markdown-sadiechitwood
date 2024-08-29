@@ -1,3 +1,8 @@
-# This program asks the user for their name and interest and prints the result to screen user_name = input("What is your name? ") user_interest = input("What are you interested in? ")
+# This program asks the user for their name and interest and prints the result to screen
 
-print("My name is Sadie Chitwood, and I like cats!")
+user_name= input("What is your name?")
+
+user_interest= input("What are you interested in?")
+
+print("My name is "+user_name +". I am interested in " +user_interest +".")
+
